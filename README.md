@@ -34,11 +34,13 @@ The dataset includes the following variables:
 11.	Competition: The measure of competition in the market, such as the number of competitors or market share of major manufacturers.
 12.	Month: Month of the observation extracted from Date.
 13.	Year: Year of the observation extracted from Date.
+
 By examining various factors mentioned above from the dataset, you aim to gain insights into how recessions impact automobile sales for your company.
 This Project will be completed in 3 Parts:
 •	Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
 •	Part 2: Create Dashboard using Plotly and Dash
 •	Part 3: Submit your project and evaluate your peers
+
 Part 1: Create visualizations using Matplotib, Seaborn & Folium
 Objective:
 The objective of this part of the Final Assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
@@ -53,6 +55,7 @@ TASK 1.6: Use the functionality of Matplotlib to develop a scatter plot to ident
 TASK 1.7: Create a pie chart to display the portion of advertising expenditure of XYZAutomotives during recession and non-recession periods.
 TASK 1.8: Develop a pie chart to display the total Advertisement expenditure for each vehicle type during recession period.
 TASK 1.9: Develop a lineplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period.
+
 Part 2: Create Dashboard using Plotly and Dash
 Objective:
 The objective of this part of the Final assignment is to create dashboards to contain your plots and charts and to provide the directors with the ability to select a particular report or a period of time so they can discuss the data in detail.
@@ -66,6 +69,7 @@ Task 2.3: Add a division for output display with appropriate id and classname pr
 TASK 2.4: Creating Callbacks; Define the callback function to update the input container based on the selected statistics and the output container.
 TASK 2.5: Create and display graphs for Recession Report Statistics.
 TASK 2.6: Create and display graphs for Yearly Report Statistics.
+
 Part 3: Submit your project and evaluate your peers
 Once you have completed the labs and saved all your files locally you will submit your assignment which will be graded by your peers who are also completing this course during the same session.
 
